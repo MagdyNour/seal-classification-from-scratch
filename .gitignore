@@ -1,0 +1,13 @@
+# Dataset files (keep local)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local environment
+.env
